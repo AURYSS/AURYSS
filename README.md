@@ -23,8 +23,9 @@ Mi trabajo se distingue por:
 
 ## 🛠️ Herramientas y Tecnologías
 
-<div align="center">
       <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+
+<div align="center">
   <div>
     <img src="https://skillicons.dev/icons?i=java,ts,js,angular,html" />
   </div>
