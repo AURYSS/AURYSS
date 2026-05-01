@@ -1,6 +1,7 @@
 <p>
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="150"/>
 </p>
+      <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 <h3 align="center">
   Hola, soy Cecilia Aurora Robelo Hernández
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -22,8 +23,6 @@ Mi trabajo se distingue por:
 ---
 
 ## 🛠️ Herramientas y Tecnologías
-
-      <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
 <div align="center">
   <div>
