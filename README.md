@@ -39,6 +39,9 @@ Mi trabajo se distingue por:
 <div align="center">
   
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AURYSS&theme=github_dark)
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AURYSS&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
+  </a>
   
 </div>
  
@@ -57,10 +60,6 @@ Mi trabajo se distingue por:
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AURYSS&theme=radical&no-frame=true&margin-w=4&margin-h=4" />
-  <br/>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=AURYSS&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
-  </a>
 </div>
 
 ---
