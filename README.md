@@ -32,6 +32,8 @@ Mi trabajo se distingue por:
   </div>
 </div>
 
+<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
+
 ---
 
  
