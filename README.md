@@ -1,5 +1,5 @@
 <p aling="center">
-<img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="150" style="margin-right: 80px;" />
+<img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="150" style="margin-right: 400px;" />
   <img alt="GIF del gato" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" height="150" />
 </p>
 
