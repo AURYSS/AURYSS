@@ -3,7 +3,7 @@
   <img alt="GIF del gato" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" height="150" />
 </p>
 
-<h3 style="text-align: center;">
+<h3 align="center">
   Hola, soy Cecilia Aurora Robelo Hernández
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
