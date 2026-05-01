@@ -38,7 +38,7 @@ Mi trabajo se distingue por:
  
 <div align="center">
   
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BryanArredon&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AURYSS&theme=github_dark)
   
 </div>
  
@@ -48,31 +48,18 @@ Mi trabajo se distingue por:
 
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BryanArredon&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BryanArredon&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AURYSS&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AURYSS&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### 🏆 Trofeos y Racha
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BryanArredon&theme=radical&no-frame=true&margin-w=4&margin-h=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AURYSS&theme=radical&no-frame=true&margin-w=4&margin-h=4" />
   <br/>
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=BryanArredon&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
-  </a>
-</div>
-
----
-
-## Contacto Profesional
-
-<div align="center">
-  <a href="mailto:bryan.e.arredondo@gmail.com">
-    <img src="https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bryan-emilio-arredondo-lopez-332a582b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=AURYSS&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF" />
   </a>
 </div>
 
