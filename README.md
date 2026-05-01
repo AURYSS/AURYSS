@@ -1,32 +1,22 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
-</div>
-
 <h3 align="center">
-  Hola, soy Bryan Emilio Arredondo López
+  Hola, soy Ceci Aurora Robelo Hernandez
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Back%20End;Arquitecturas%20de%20software;Código%20limpio%20y%20escalable;Siempre%20aprendiendo%20📚&font=Fira%20Code&center=true&width=440&height=45">
-  </a>
-</p>
 
 ---
 
 ## Perfil Profesional
 
-Soy Bryan Emilio, desarrollador de software enfocado en construir soluciones eficientes, escalables y mantenibles. Mi trabajo se distingue por:
+Soy desarrolladora de software enfocado en construir soluciones eficientes, escalables y mantenibles. 
+Mi trabajo se distingue por:
 
-- Desarrollo de aplicaciones web y móviles con arquitecturas modernas  
+- Desarrollo de aplicaciones web con arquitecturas modernas  
 - Uso de patrones de diseño y buenas prácticas de ingeniería  
 - Optimización del rendimiento y mejora de la experiencia del usuario  
 - Colaboración en equipos ágiles y orientación a resultados  
 
-Actualmente estoy profundizando en arquitecturas de software y busco proyectos que impulsen mi crecimiento técnico y profesional.
 
 ---
 
@@ -37,7 +27,7 @@ Actualmente estoy profundizando en arquitecturas de software y busco proyectos q
     <img src="https://skillicons.dev/icons?i=java,ts,js,angular,html" />
   </div>
   <div>
-    <img src="https://skillicons.dev/icons?i=css,nodejs,spring,mongodb,postman,vscode,r,supabase,docker,next" />
+    <img src="https://skillicons.dev/icons?i=css,nodejs,mongodb,postman,vscode,supabase,next" />
   </div>
 </div>
 
