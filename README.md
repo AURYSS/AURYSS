@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="150"/>
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="150" />
+  <img alt="GIF del gato" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" height="150" />
 </p>
-
-<img align="right" alt="GIF del gato" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="280" />
 
 <h3>
   Hola, soy Cecilia Aurora Robelo Hernández
