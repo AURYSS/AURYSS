@@ -12,7 +12,6 @@
 ---
 
 ## Perfil Profesional
-
 Soy desarrolladora de software enfocada en construir soluciones eficientes, escalables y mantenibles. 
 Mi trabajo se distingue por:
 
