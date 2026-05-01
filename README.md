@@ -1,7 +1,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <h3 align="center">
-  Hola, soy Ceci Aurora Robelo Hernandez
+  Hola, soy Cecilia Aurora Robelo Hernández
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
