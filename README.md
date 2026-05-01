@@ -1,5 +1,6 @@
-<p>
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="150" />
+<p aling="center">
+<img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="150" />
+  <br><br> <!-- Agregamos dos para que haya un espacio en blanco entre ellas -->
   <img alt="GIF del gato" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" height="150" />
 </p>
 
