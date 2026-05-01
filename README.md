@@ -30,9 +30,9 @@ Mi trabajo se distingue por:
   <div>
     <img src="https://skillicons.dev/icons?i=css,nodejs,mongodb,postman,vscode,supabase,next" />
   </div>
+  <div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 </div>
 
-<div><img align="right" alt="GIF" src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.webp" width="300" height="auto" /></div>
 
 ---
 
